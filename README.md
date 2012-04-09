@@ -18,6 +18,7 @@ Type the keyword (default is `sd`) and the number of minutes after which you wan
 _Ex._
 `sd 60` will shut your computer down in an hour.
 
-Caveat(s)
----------
+Caveats
+-------
 You must have admin privileges to use this extension.
+You must have the [Powerpack](http://www.alfredapp.com/powerpack/) to use extensions.
