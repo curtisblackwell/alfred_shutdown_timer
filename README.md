@@ -20,5 +20,5 @@ _Ex._
 
 Caveats
 -------
-You must have admin privileges to use this extension.
-You must have the [Powerpack](http://www.alfredapp.com/powerpack/) to use extensions.
+* You must have admin privileges to use this extension.
+* You must have the [Powerpack](http://www.alfredapp.com/powerpack/) to use extensions.
